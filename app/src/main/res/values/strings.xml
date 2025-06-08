@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quản lý sinh viên</string>
+    <string name="add_student">Thêm sinh viên</string>
+    <string name="edit_student">Sửa sinh viên</string>
+    <string name="student_code">Mã sinh viên</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="email">Email</string>
+    <string name="phone">Số điện thoại</string>
+    <string name="major">Ngành học</string>
+    <string name="gpa">Điểm GPA</string>
+    <string name="save">Lưu</string>
+    <string name="delete">Xóa</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="confirm_delete">Xác nhận xóa</string>
+    <string name="delete_message">Bạn có chắc chắn muốn xóa sinh viên này?</string>
+    <string name="cancel">Hủy</string>
+    <string name="no_students">Chưa có sinh viên nào</string>
+    <string name="search_hint">Tìm kiếm sinh viên...</string>
+</resources>
